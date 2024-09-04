@@ -1,0 +1,11 @@
+[template]
+ignore = [
+    "package-lock.json",
+    "Cargo.lock",
+    "node_modules",
+    "target",
+    "README.md"
+]
+exclude = [
+    "/**/*.html",
+]
